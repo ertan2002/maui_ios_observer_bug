@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ios_Bug/.vs
+/Ios_Bug/bin/Debug
+/Ios_Bug/obj
+/Ios_Bug/Ios_Bug.csproj.user
+/.vs/Ios_Bug/v17
+/.vs/Ios_Bug/FileContentIndex
