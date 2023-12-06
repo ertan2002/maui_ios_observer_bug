@@ -17,7 +17,7 @@ namespace Ios_Bug
 
         protected override void OnHandlerChanged()
         {
-           // base.OnHandlerChanged();
+           base.OnHandlerChanged();
 #if IOS
 
             var nativeWebView = webview.Handler.PlatformView as WebKit.WKWebView;
